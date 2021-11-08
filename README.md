@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RafaelEstiga0409
 - 👀 I’m interested in java script, html, css
-- 🌱 I’m currently learning  java scripit, html, css
+- 🌱 I’m currently learning  java script, html, css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
